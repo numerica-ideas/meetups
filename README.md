@@ -1,8 +1,10 @@
-# NumericaIdeas Meetups
+# NumericaIdeas Community Meetups
 
-**Place (virtually)**: [Discord Server](https://discord.gg/UTP7Davtvg)
+**Place (virtually)**: All activities including meetups and workshops happen in the [Discord Server](https://discord.gg/UTP7Davtvg).
 
 **Meetups**:
-- Advanced multi-modules architecture by @valdesekamdem
+- [Multi-modules à la rescousse des microservices](./advanced-multi-modules-architecture) by @valdesekamdem
 
-NumericaIdeas Network
+[Click here](https://discord.gg/UTP7Davtvg) to be the next speaker at one of our activities.
+
+[NumericaIdeas Network](https://numericaideas.com)
