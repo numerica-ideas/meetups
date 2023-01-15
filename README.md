@@ -2,6 +2,8 @@
 
 **Place (virtually)**: All activities including meetups and workshops happen in the [Discord Server](https://discord.gg/UTP7Davtvg).
 
+**Events replays**: Available on our [YouTube channel](https://www.youtube.com/@numericaideas).
+
 **Meetups**:
 - [Multi-modules à la rescousse des microservices](./advanced-multi-modules-architecture) by @valdesekamdem
 

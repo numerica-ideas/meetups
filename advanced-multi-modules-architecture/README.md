@@ -12,7 +12,7 @@
 
 **Slides**: [presentation.pdf](./presentation.pdf)
 
-**Video**: https://youtu.be/e_LJvcikUCk
+**Replay**: https://youtu.be/e_LJvcikUCk
 
 **Source code**: https://github.com/numerica-ideas/advanced-multi-modules-architecture-meetup
 
