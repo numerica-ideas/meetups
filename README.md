@@ -7,6 +7,6 @@
 **Meetups**:
 - [Multi-modules à la rescousse des microservices](./advanced-multi-modules-architecture) by @valdesekamdem
 
-[Click here](https://discord.gg/UTP7Davtvg) to be the next speaker at one of our activities.
+[Click here](https://discord.gg/UTP7Davtvg) to be the next speaker/organizer at one of our activities or to find other contribution opportunities.
 
 [NumericaIdeas Network](https://numericaideas.com)
