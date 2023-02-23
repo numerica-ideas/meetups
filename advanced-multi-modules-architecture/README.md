@@ -8,6 +8,8 @@
 
 **Topic**: Multi-modules à la rescousse des microservices.
 
+**Language**: Français (FR)
+
 **Speaker**: [Valdèse Kamdem](https://www.linkedin.com/in/valdesekamdem)
 
 **Organizer**: [Orleando Dassi](https://www.linkedin.com/in/dassi-orleando-257b04ab)
@@ -18,6 +20,6 @@
 
 **Sample code**: https://github.com/numerica-ideas/advanced-multi-modules-architecture-meetup
 
-**Summary**: Think of your application like you are doing microservices without paying the full price of microservices architectures, this **advanced multi-modules architecture** should be considered as an intermediate solution to remain on a monolithic base App that can quickly progress to become a microservices infrastructure whenever needed, the idea behind is *we don't need microservices, or at least not now, even better, not when we write the first lines of code of the App*.
+**Summary**: Pensez à votre application comme si vous faisiez des microservices sans payer le plein prix des architectures de microservices, cette **"architecture multi-modules avancée"** doit être considérée comme une solution intermédiaire pour rester sur une base monolithique App qui peut rapidement évoluer pour devenir une infrastructure de microservices à tout moment au besoin, l'idée derrière est "nous n'avons pas besoin de microservices, ou du moins pas maintenant, encore mieux, pas lorsque nous écrivons les premières lignes de code de l'App".
 
-Click [here](https://www.youtube.com/@numericaideas/channels?sub_confirmation=1) to subscribe to our **YouTube channels (En & Fr)** and be notified about future Workshops and Events.
+:warning: Click [here](https://www.youtube.com/@numericaideas/channels?sub_confirmation=1) to subscribe to our **YouTube channels (En & Fr)** and be notified about future videos.
