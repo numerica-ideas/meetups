@@ -5,6 +5,7 @@
 **Events replays**: Available on our [YouTube (English & Français)](https://www.youtube.com/@numericaideas/channels?sub_confirmation=1) channels.
 
 **Meetups**:
-- [Multi-modules à la rescousse des microservices](./advanced-multi-modules-architecture) by @valdesekamdem
+- [Multi-modules à la rescousse des microservices - FR](./advanced-multi-modules-architecture) by [Valdese Kamdem](https://www.linkedin.com/in/valdesekamdem)
+- [Devenez un freelance de première classe avec Toptal - FR](./toptal-freelance-premiere-classe) by [Salomon Nghukam](https://www.linkedin.com/in/salomon-nghukam)
 
 [NumericaIdeas Network](https://numericaideas.com)
