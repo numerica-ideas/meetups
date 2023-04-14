@@ -6,6 +6,6 @@
 
 **Meetups**:
 - [Multi-modules à la rescousse des microservices - FR](./advanced-multi-modules-architecture) by [Valdese Kamdem](https://www.linkedin.com/in/valdesekamdem)
-- [Devenez un freelance de première classe avec Toptal - FR](./toptal-freelance-premiere-classe) by [Salomon Nghukam](https://www.linkedin.com/in/salomon-nghukam)
+- [Devenez un freelance de première classe (3%) avec Toptal - FR](./toptal-freelance-premiere-classe) by [Salomon Nghukam](https://www.linkedin.com/in/salomon-nghukam)
 
 [NumericaIdeas Network](https://numericaideas.com)

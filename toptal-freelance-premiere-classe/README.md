@@ -1,12 +1,12 @@
-# NumericaIdeas Meetup [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnumerica-ideas%2Fmeetups%2Ftoptal-freelance-premiere-classe&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://numericaideas.com)
+# Ni Meetup#02 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnumerica-ideas%2Fmeetups%2Ftoptal-freelance-premiere-classe&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://numericaideas.com)
 
-[![FlyerImage](flyer.png)](https://youtu.be/xxxxxxxxxxxxxxx)
+[![FlyerImage](flyer.png)](https://youtu.be/AmhMAQTxcGg)
 
-**Type**: Local - Cameroun / France / Québec, Canada.
+**Type**: Cameroun / France / Québec, Canada
 
 **Date**: Le 08, Avril 2023 à 15h UTC.
 
-**Topic**: Devenez un freelance de première classe avec Toptal.
+**Topic**: Devenez un freelance de première classe (3%) avec Toptal.
 
 **Language**: Français (FR)
 
@@ -16,8 +16,8 @@
 
 **Slides**: [presentation.pdf](./presentation.pdf)
 
-**Replay**: https://youtu.be/xxxxxxxxxxxxxxx
+**Replay**: https://youtu.be/AmhMAQTxcGg
 
-**Summary**: Vous êtes un développeur, designer ou expert dans votre domaine, cherchant à rejoindre une communauté de freelancers d'élite? Alors ne manquez pas notre prochain meetup pour apprendre comment rejoindre le réseau de talents le plus convoité - **Toptal**. Notre speaker vous partagera son expérience à travers les étapes pour devenir un membre de ce réseau sélectif et vous donnera des conseils pratiques pour vous aider à réussir en tant que freelance de première classe.
+**Summary**: Vous êtes un développeur, designer ou expert dans votre domaine, cherchant à rejoindre une communauté de freelancers d'élite? Alors cette video est faite pour vous apprendre comment rejoindre le réseau de talents le plus convoité - **Toptal**. Le speaker partage son expérience à travers les étapes pour devenir un membre de ce réseau sélectif et vous donne des conseils pratiques pour vous aider à réussir en tant que freelance de première classe.
 
-:warning: Click [here](https://www.youtube.com/@numericaideas/channels?sub_confirmation=1) to subscribe to our **YouTube channels (En & Fr)** and be notified about future videos.
+:warning: Cliquez [ici](https://www.youtube.com/@numericaideas/channels?sub_confirmation=1) pour vous abonner à nos **chaînes YouTube (En & Fr)** pour être notifié des prochaines vidéos.
